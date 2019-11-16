@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.adlx.legosbinarios"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Legos Binarios</name>
+
+  <description>
+      Aprende los numeros binarios con Legos
+  </description>
+
+  <author href="https://maker.itnerd.space" email="adumont@gmail.com">
+      Alexandre Dumont
+  </author>
+
+</widget>
